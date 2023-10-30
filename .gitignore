@@ -7,7 +7,10 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+<<<<<<< HEAD
 .idea/
+=======
+>>>>>>> master2
 
 # AWS User-specific
 .idea/**/aws.xml
